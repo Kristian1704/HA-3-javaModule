@@ -1,6 +1,0 @@
-[VEHICLE:aaa] 2025-11-07T14:53:23.8604432+01:00 created
-[VEHICLE:aaa] 2025-11-07T14:53:51.7809186+01:00 Assigned item 'Gloves' from unassigned pool when creating manual task 1
-[VEHICLE:aaa] 2025-11-07T14:53:51.784908+01:00 Assigned task 1
-[VEHICLE:aaa] 2025-11-07T14:54:18.8070485+01:00 Battery drop after update: 20% → 15%
-[VEHICLE:aaa] 2025-11-07T14:54:23.9007174+01:00 Battery drop after auto-distribution: 15% → 5%
-[VEHICLE:aaa] 2025-11-07T14:55:03.9622711+01:00 aaa left queue after waiting 0 minutes (timeout).

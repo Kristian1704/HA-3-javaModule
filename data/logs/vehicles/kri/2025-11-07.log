@@ -1,6 +1,0 @@
-[VEHICLE:kri] 2025-11-07T15:37:57.4087224+01:00 created
-[VEHICLE:kri] 2025-11-07T15:38:31.0505861+01:00 Assigned item 'Masks' from unassigned pool when creating manual task 1
-[VEHICLE:kri] 2025-11-07T15:38:31.0505861+01:00 Assigned task 1
-[VEHICLE:kri] 2025-11-07T15:38:38.9864067+01:00 Battery drop after update: 20% → 15%
-[VEHICLE:kri] 2025-11-07T15:38:57.4337477+01:00 Battery drop after auto-distribution: 15% → 5%
-[VEHICLE:kri] 2025-11-07T15:39:37.5000242+01:00 kri left queue after waiting 0 minutes (timeout).

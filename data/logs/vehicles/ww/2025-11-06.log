@@ -1,8 +1,0 @@
-[VEHICLE:ww] 2025-11-06T19:45:57.2656611+01:00 created
-[VEHICLE:ww] 2025-11-06T23:32:32.6089088+01:00 created
-[VEHICLE:ww] 2025-11-06T23:33:00.2671063+01:00 Assigned item 'Gloves' from unassigned pool when creating manual task 1
-[VEHICLE:ww] 2025-11-06T23:33:00.2690991+01:00 Assigned task 1
-[VEHICLE:ww] 2025-11-06T23:35:13.2287509+01:00 ⚠️ Battery low (10%). ww going to Default_Station_1 for charging...
-[VEHICLE:ww] 2025-11-06T23:35:13.2430885+01:00 Battery drop after update: 15% → 10%
-[VEHICLE:ww] 2025-11-06T23:35:33.2516183+01:00 🔌 ww charging at Default_Station_1... Battery now 15%
-[VEHICLE:ww] 2025-11-06T23:35:53.2605992+01:00 🔌 ww charging at Default_Station_1... Battery now 20%

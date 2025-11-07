@@ -1,8 +1,0 @@
-[SYSTEM] 2025-11-05T00:23:14.0303818+01:00 ✅ Default medical items loaded from CSV
-[SYSTEM] 2025-11-05T00:23:14.0747849+01:00 Default charging stations initialized
-[SYSTEM] 2025-11-05T00:23:36.6323091+01:00 Task created: 1 -> test
-[SYSTEM] 2025-11-05T00:24:20.3629126+01:00 Vehicle added: StorageVehicle{id='1', name='test', battery=15%}
-[SYSTEM] 2025-11-05T00:24:37.8756285+01:00 Vehicle added: StorageVehicle{id='4', name='rr', battery=15%}
-[SYSTEM] 2025-11-05T00:28:49.5957544+01:00 ✅ Default medical items loaded from CSV
-[SYSTEM] 2025-11-05T00:28:49.6334778+01:00 Default charging stations initialized
-[SYSTEM] 2025-11-05T00:29:00.9180169+01:00 Vehicle added: StorageVehicle{id='1', name='test', battery=15%}

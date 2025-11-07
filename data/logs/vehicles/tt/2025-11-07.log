@@ -1,6 +1,0 @@
-[VEHICLE:tt] 2025-11-07T00:38:43.2977748+01:00 created
-[VEHICLE:tt] 2025-11-07T00:39:43.3170514+01:00 Battery drop after auto-distribution: 20% → 10%
-[VEHICLE:tt] 2025-11-07T00:39:48.8123089+01:00 Battery drop after auto-distribution: 10% → 0%
-[VEHICLE:tt] 2025-11-07T00:40:43.3357177+01:00 ⚠️ Battery low (0%). tt going to Default_Station_1 for charging...
-[VEHICLE:tt] 2025-11-07T00:40:43.3392446+01:00 Battery drop after auto-distribution: 0% → 0%
-[VEHICLE:tt] 2025-11-07T00:40:43.4446534+01:00 ⚠️ Battery low (0%). tt going to Default_Station_2 for charging...

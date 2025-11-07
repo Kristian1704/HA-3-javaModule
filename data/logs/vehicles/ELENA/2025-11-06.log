@@ -1,9 +1,0 @@
-[VEHICLE:ELENA] 2025-11-06T20:15:55.6725068+01:00 created
-[VEHICLE:ELENA] 2025-11-06T20:16:16.5179233+01:00 Assigned task 14
-[VEHICLE:ELENA] 2025-11-06T20:17:35.7346528+01:00 ⚠️ Battery low (10%). ELENA going to Default_Station_1 for charging...
-[VEHICLE:ELENA] 2025-11-06T20:17:35.7422121+01:00 Battery drop after update: 15% → 10%
-[VEHICLE:ELENA] 2025-11-06T20:17:55.7386724+01:00 🔌 ELENA charging at Default_Station_1... Battery now 15%
-[VEHICLE:ELENA] 2025-11-06T20:18:15.7412131+01:00 🔌 ELENA charging at Default_Station_1... Battery now 20%
-[VEHICLE:ELENA] 2025-11-06T20:18:35.7508543+01:00 🔌 ELENA charging at Default_Station_1... Battery now 25%
-[VEHICLE:ELENA] 2025-11-06T20:18:55.7569578+01:00 🔌 ELENA charging at Default_Station_1... Battery now 30%
-[VEHICLE:ELENA] 2025-11-06T20:19:15.7607794+01:00 🔌 ELENA charging at Default_Station_1... Battery now 35%
