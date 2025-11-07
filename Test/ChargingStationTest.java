@@ -7,19 +7,23 @@ public class ChargingStationTest {
         // Test 1: valid construction and getters
         try {
             ChargingStation c = new ChargingStation("ST-001", "Station_1");
-            assert "1".equals(c.getId()) : "id mismatch";
+            assert "ST-001".equals(c.getId()) : "id mismatch";
             assert "Station_1".equals(c.getName()) : "name mismatch";
-            assert c.getCurrentLoadPct() == 0 : "default currentLoadPct should be 0";
+            assert !c.isInUse() : "Station should be free initially";
             System.out.println("Test 1 passed");
         } catch (Throwable t) {
             System.out.println("Test 1 failed: " + t.getMessage());
         }
 
-        //Test 2: set valid load
+        // Test 2: occupy() and release()
         try {
             ChargingStation c = new ChargingStation("ST-002", "Station_2");
-            c.setCurrentLoadPct(45);
-            assert c.getCurrentLoadPct() == 45 : "currentLoadPct not set correctly";
+            c.occupy();
+            assert c.isInUse() : "Station should be in use after occupy()";
+
+            c.release();
+            assert !c.isInUse() : "Station should be free after release()";
+
             System.out.println("Test 2 passed");
         } catch (Throwable t) {
             System.out.println("Test 2 failed: " + t.getMessage());
@@ -33,22 +37,20 @@ public class ChargingStationTest {
             System.out.println("Test 3 passed (caught: " + ok.getMessage() + ")");
         }
 
-        // Test 4: invalid load should throw exception
+        // Test 4: invalid name should throw exception
         try {
-            ChargingStation c = new ChargingStation("ST-004", "Station_4");
-            c.setCurrentLoadPct(200);
-            System.out.println("Test 4 failed: Expected exception for invalid load");
+            new ChargingStation("ST-004", "");
+            System.out.println("Test 4 failed: Expected exception for blank name");
         } catch (IllegalArgumentException ok) {
             System.out.println("Test 4 passed (caught: " + ok.getMessage() + ")");
         }
 
-        // Test 5: toString includes id, name, and load
+        // Test 5: toString includes id, name, and status
         try {
             ChargingStation c = new ChargingStation("ST-005", "Alpha");
-            c.setCurrentLoadPct(20);
             String s = c.toString();
-            assert s.contains("ST-005") && s.contains("Alpha") && s.contains("20")
-                    : "toString missing expected fields";
+            assert s.contains("ST-005") && s.contains("Alpha") : "toString missing id or name";
+            assert s.contains("FREE") : "Default status should be FREE";
             System.out.println("Test 5 passed");
         } catch (Throwable t) {
             System.out.println("Test 5 failed: " + t.getMessage());

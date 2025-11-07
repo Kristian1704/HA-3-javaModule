@@ -22,7 +22,7 @@ public class StorageServiceTest {
             testAddVehicle(service, repo, cfg);
             testAddChargingStation(service, repo, cfg);
             testUpdateChargingLoad(service, repo, cfg);
-            testAddItemToVehicle(service, repo, cfg);   // <-- fixed here
+            testAddItem(service, repo, cfg);   // ✅ updated test
             testInvalidNameThrows(service);
 
             System.out.println("All StorageService tests finished.");
@@ -38,8 +38,10 @@ public class StorageServiceTest {
         service.addVehicle(v);
 
         assert repo.vehicles.containsKey("V001") : "Vehicle not added to repository";
+
         Path logFile = cfg.logsVehicles.resolve("Van_Beta").resolve(LocalDate.now().toString() + ".log");
         assert Files.exists(logFile) : "Vehicle log not created";
+
         String logContent = Files.readString(logFile);
         assert logContent.contains("created") : "Vehicle creation log missing";
 
@@ -52,10 +54,12 @@ public class StorageServiceTest {
         service.addChargingStation(s);
 
         assert repo.stations.containsKey("S001") : "Charging station not added to repository";
+
         Path logFile = cfg.logsCharging.resolve("Station_Alpha").resolve(LocalDate.now().toString() + ".log");
         assert Files.exists(logFile) : "Charging station log not created";
+
         String logContent = Files.readString(logFile);
-        assert logContent.contains("created") : "Charging creation log missing";
+        assert logContent.contains("added") : "Charging creation log missing";
 
         System.out.println("Test 2 passed  (addChargingStation)");
     }
@@ -65,38 +69,40 @@ public class StorageServiceTest {
         ChargingStation s = new ChargingStation("S002", "Station_LoadTest");
         service.addChargingStation(s);
 
-        service.updateChargingLoad("S002", 75);
-        assert repo.stations.get("S002").getCurrentLoadPct() == 75 : "Charging load not updated correctly";
+        // 1 = occupy, 0 = release
+        service.updateChargingLoad("S002", 1);
+        assert repo.stations.get("S002").isInUse() : "Charging station should be in use";
 
-        Path logFile = cfg.logsCharging.resolve("Station_LoadTest").resolve(LocalDate.now().toString() + ".log");
-        String logContent = Files.readString(logFile);
-        assert logContent.contains("Load set to 75%") : "Charging load update not logged";
+        service.updateChargingLoad("S002", 0);
+        assert !repo.stations.get("S002").isInUse() : "Charging station should be free";
 
         System.out.println("Test 3 passed  (updateChargingLoad)");
     }
 
-    // ---------- TEST 4 ----------
-    private static void testAddItemToVehicle(StorageService service, Repository repo, PathsConfig cfg) throws IOException {
-        StorageVehicle v = new StorageVehicle("V002", "Van_Items");
-        service.addVehicle(v);
-
+    // ---------- TEST 4 (UPDATED ✅) ----------
+    private static void testAddItem(StorageService service, Repository repo, PathsConfig cfg) throws IOException {
         StorageItem item = new StorageItem("SKU123", "Bandages", 5);
-        service.addItemToVehicle("V002", item);
 
-        //  Fix: inventory is a Map<String, StorageItem>
-        assert !v.getInventory().isEmpty() : "Item not added to vehicle inventory";
-        assert v.getInventory().containsKey("SKU123") : "Inventory missing SKU123 key";
+        // Correct method in StorageService
+        service.addItem(item);
 
-        StorageItem stored = v.getInventory().get("SKU123");
+        // Validate item is in unassigned list
+        assert service.getUnassignedItemsRef().containsKey("SKU123") : "Item not added to unassigned list";
+
+        StorageItem stored = service.getUnassignedItemsRef().get("SKU123");
         assert stored != null : "Stored item is null";
-        assert stored.getSku().equals("SKU123") : "Incorrect SKU in inventory";
-        assert stored.getQuantity() == 5 : "Incorrect quantity in inventory";
+        assert stored.getSku().equals("SKU123") : "Incorrect SKU stored";
+        assert stored.getQuantity() == 5 : "Incorrect quantity stored";
 
-        Path logFile = cfg.logsVehicles.resolve("Van_Items").resolve(LocalDate.now().toString() + ".log");
+        // Validate system log (matches addItem logging)
+        Path logFile = cfg.logsSystem.resolve(LocalDate.now().toString() + ".log");
+        assert Files.exists(logFile) : "System log not created";
+
         String logContent = Files.readString(logFile);
-        assert logContent.contains("Added item SKU123 x5") : "Vehicle item addition log missing or mismatched";
+        assert logContent.contains("Added unassigned item")
+                : "Unassigned item addition not logged";
 
-        System.out.println("Test 4 passed  (addItemToVehicle)");
+        System.out.println("Test 4 passed  (addItem)");
     }
 
     // ---------- TEST 5 ----------
