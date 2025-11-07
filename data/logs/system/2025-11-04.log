@@ -1,0 +1,32 @@
+[SYSTEM] 2025-11-04T23:31:30.4302159+01:00 Default charging stations available: 3
+[SYSTEM] 2025-11-04T23:32:15.7358456+01:00 🟡 Created unassigned item: ss
+[SYSTEM] 2025-11-04T23:32:55.0325904+01:00 Vehicle added: StorageVehicle{id='1', name='ee', battery=15%}
+[SYSTEM] 2025-11-04T23:33:06.3839513+01:00 Inventory updated for ee SKU=ee
+[SYSTEM] 2025-11-04T23:36:29.2020244+01:00 Default charging stations available: 3
+[SYSTEM] 2025-11-04T23:36:46.3800549+01:00 Vehicle added: StorageVehicle{id='1', name='test', battery=15%}
+[SYSTEM] 2025-11-04T23:36:59.6212283+01:00 🟡 Created unassigned item: aa
+[SYSTEM] 2025-11-04T23:37:10.0024405+01:00 Inventory updated for test SKU=er
+[SYSTEM] 2025-11-04T23:37:38.1444535+01:00 🟡 Created unassigned item: aa
+[SYSTEM] 2025-11-04T23:41:21.5628997+01:00 Default charging stations available: 3
+[SYSTEM] 2025-11-04T23:41:40.3463647+01:00 Vehicle added: StorageVehicle{id='1', name='tt', battery=15%}
+[SYSTEM] 2025-11-04T23:41:45.8740576+01:00 Vehicle added: StorageVehicle{id='2', name='aa', battery=15%}
+[SYSTEM] 2025-11-04T23:41:59.0390278+01:00 Inventory updated for tt SKU=aa
+[SYSTEM] 2025-11-04T23:42:09.5660332+01:00 Inventory updated for aa SKU=ff
+[SYSTEM] 2025-11-04T23:42:17.6687246+01:00 🟡 Created unassigned item: a
+[SYSTEM] 2025-11-04T23:42:26.8593335+01:00 🟡 Created unassigned item: dsd
+[SYSTEM] 2025-11-04T23:44:08.2811949+01:00 Default charging stations initialized
+[SYSTEM] 2025-11-04T23:44:17.5186884+01:00 Vehicle added: StorageVehicle{id='1', name='tt', battery=15%}
+[SYSTEM] 2025-11-04T23:44:21.6974016+01:00 Vehicle added: StorageVehicle{id='2', name='de', battery=15%}
+[SYSTEM] 2025-11-04T23:44:40.7338685+01:00 Item stored on vehicle 1
+[SYSTEM] 2025-11-04T23:45:07.8916745+01:00 Item stored on vehicle 2
+[SYSTEM] 2025-11-04T23:45:15.9755485+01:00 🟡 Unassigned item stored: StorageItem{sku='sa', name='as', quantity=2} (saved in unassignedItems)
+[SYSTEM] 2025-11-04T23:45:23.7980156+01:00 🟡 Unassigned item stored: StorageItem{sku='sd', name='ds', quantity=4} (saved in unassignedItems)
+[SYSTEM] 2025-11-04T23:46:47.585686+01:00 Default charging stations initialized
+[SYSTEM] 2025-11-04T23:47:35.2947068+01:00 Vehicle added: StorageVehicle{id='1', name='dd', battery=15%}
+[SYSTEM] 2025-11-04T23:47:39.4187552+01:00 Vehicle added: StorageVehicle{id='2', name='ee', battery=15%}
+[SYSTEM] 2025-11-04T23:47:46.7965168+01:00 Item stored on vehicle 1
+[SYSTEM] 2025-11-04T23:47:54.2881311+01:00 Item stored on vehicle 2
+[SYSTEM] 2025-11-04T23:47:59.2612434+01:00 🟡 Unassigned item stored: StorageItem{sku='qq', name='qq', quantity=3} (saved in unassignedItems)
+[SYSTEM] 2025-11-04T23:48:07.5452997+01:00 🟡 Unassigned item stored: StorageItem{sku='w', name='sw', quantity=4} (saved in unassignedItems)
+[SYSTEM] 2025-11-04T23:59:11.570212+01:00 ✅ Default medical items loaded from CSV
+[SYSTEM] 2025-11-04T23:59:11.6036708+01:00 Default charging stations initialized

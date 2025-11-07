@@ -1,0 +1,71 @@
+[VEHICLE:aa] 2025-11-07T14:19:27.4646636+01:00 created
+[VEHICLE:aa] 2025-11-07T14:21:43.2393261+01:00 created
+[VEHICLE:aa] 2025-11-07T14:22:23.198673+01:00 Assigned item 'Gloves' from unassigned pool when creating manual task 1
+[VEHICLE:aa] 2025-11-07T14:22:23.2006694+01:00 Assigned task 1
+[VEHICLE:aa] 2025-11-07T14:22:37.3478492+01:00 Battery drop after update: 20% → 15%
+[VEHICLE:aa] 2025-11-07T14:36:04.4994319+01:00 created
+[VEHICLE:aa] 2025-11-07T14:52:39.7601396+01:00 ⚠️ Battery low (10%). aa going to Default_Station_3 for charging...
+[VEHICLE:aa] 2025-11-07T14:52:39.7752552+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:aa] 2025-11-07T14:52:59.8102661+01:00 🔌 aa charging at Default_Station_3... Battery now 15%
+[VEHICLE:aa] 2025-11-07T14:53:19.8217356+01:00 🔌 aa charging at Default_Station_3... Battery now 20%
+[VEHICLE:aa] 2025-11-07T14:53:39.8316654+01:00 🔌 aa charging at Default_Station_3... Battery now 25%
+[VEHICLE:aa] 2025-11-07T14:53:59.8428432+01:00 🔌 aa charging at Default_Station_3... Battery now 30%
+[VEHICLE:aa] 2025-11-07T14:54:19.8451999+01:00 🔌 aa charging at Default_Station_3... Battery now 35%
+[VEHICLE:aa] 2025-11-07T14:54:39.8502263+01:00 🔌 aa charging at Default_Station_3... Battery now 40%
+[VEHICLE:aa] 2025-11-07T14:54:59.8638716+01:00 🔌 aa charging at Default_Station_3... Battery now 45%
+[VEHICLE:aa] 2025-11-07T14:55:19.8727851+01:00 🔌 aa charging at Default_Station_3... Battery now 50%
+[VEHICLE:aa] 2025-11-07T14:55:39.8829995+01:00 🔌 aa charging at Default_Station_3... Battery now 55%
+[VEHICLE:aa] 2025-11-07T14:55:59.8869906+01:00 🔌 aa charging at Default_Station_3... Battery now 60%
+[VEHICLE:aa] 2025-11-07T14:56:19.8908596+01:00 🔌 aa charging at Default_Station_3... Battery now 65%
+[VEHICLE:aa] 2025-11-07T14:56:39.9070016+01:00 🔌 aa charging at Default_Station_3... Battery now 70%
+[VEHICLE:aa] 2025-11-07T14:56:59.9323774+01:00 🔌 aa charging at Default_Station_3... Battery now 75%
+[VEHICLE:aa] 2025-11-07T14:57:19.9800229+01:00 🔌 aa charging at Default_Station_3... Battery now 80%
+[VEHICLE:aa] 2025-11-07T14:57:39.993136+01:00 🔌 aa charging at Default_Station_3... Battery now 85%
+[VEHICLE:aa] 2025-11-07T14:58:00.0176864+01:00 🔌 aa charging at Default_Station_3... Battery now 90%
+[VEHICLE:aa] 2025-11-07T14:58:20.0489026+01:00 🔌 aa charging at Default_Station_3... Battery now 95%
+[VEHICLE:aa] 2025-11-07T14:58:20.0489026+01:00 🔋 aa fully charged and ready to resume tasks.
+[VEHICLE:aa] 2025-11-07T15:20:27.8780333+01:00 created
+[VEHICLE:aa] 2025-11-07T15:26:43.2852143+01:00 ⚠️ Battery low (10%). aa going to Default_Station_1 for charging...
+[VEHICLE:aa] 2025-11-07T15:26:43.2966848+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:aa] 2025-11-07T15:27:03.3126268+01:00 🔌 aa charging at Default_Station_1... Battery now 15%
+[VEHICLE:aa] 2025-11-07T15:27:23.425163+01:00 🔌 aa charging at Default_Station_1... Battery now 20%
+[VEHICLE:aa] 2025-11-07T15:27:43.4399776+01:00 🔌 aa charging at Default_Station_1... Battery now 25%
+[VEHICLE:aa] 2025-11-07T15:28:03.4528586+01:00 🔌 aa charging at Default_Station_1... Battery now 30%
+[VEHICLE:aa] 2025-11-07T15:28:23.466114+01:00 🔌 aa charging at Default_Station_1... Battery now 35%
+[VEHICLE:aa] 2025-11-07T15:28:43.4758612+01:00 🔌 aa charging at Default_Station_1... Battery now 40%
+[VEHICLE:aa] 2025-11-07T15:29:03.4785743+01:00 🔌 aa charging at Default_Station_1... Battery now 45%
+[VEHICLE:aa] 2025-11-07T15:29:23.4893054+01:00 🔌 aa charging at Default_Station_1... Battery now 50%
+[VEHICLE:aa] 2025-11-07T15:29:43.5009359+01:00 🔌 aa charging at Default_Station_1... Battery now 55%
+[VEHICLE:aa] 2025-11-07T15:30:03.5030023+01:00 🔌 aa charging at Default_Station_1... Battery now 60%
+[VEHICLE:aa] 2025-11-07T15:30:23.5115083+01:00 🔌 aa charging at Default_Station_1... Battery now 65%
+[VEHICLE:aa] 2025-11-07T15:30:43.5151711+01:00 🔌 aa charging at Default_Station_1... Battery now 70%
+[VEHICLE:aa] 2025-11-07T15:31:03.5236164+01:00 🔌 aa charging at Default_Station_1... Battery now 75%
+[VEHICLE:aa] 2025-11-07T15:31:23.5308932+01:00 🔌 aa charging at Default_Station_1... Battery now 80%
+[VEHICLE:aa] 2025-11-07T15:31:43.5397982+01:00 🔌 aa charging at Default_Station_1... Battery now 85%
+[VEHICLE:aa] 2025-11-07T15:32:03.5524571+01:00 🔌 aa charging at Default_Station_1... Battery now 90%
+[VEHICLE:aa] 2025-11-07T15:32:23.5652043+01:00 🔌 aa charging at Default_Station_1... Battery now 95%
+[VEHICLE:aa] 2025-11-07T15:32:23.5667829+01:00 🔋 aa fully charged and ready to resume tasks.
+[VEHICLE:aa] 2025-11-07T15:37:34.2159802+01:00 created
+[VEHICLE:aa] 2025-11-07T15:38:47.5195618+01:00 ⚠️ Battery low (10%). aa going to Default_Station_1 for charging...
+[VEHICLE:aa] 2025-11-07T15:38:47.5292688+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:aa] 2025-11-07T15:38:57.4256672+01:00 Battery drop after auto-distribution: 10% → 0%
+[VEHICLE:aa] 2025-11-07T15:39:07.5360619+01:00 🔌 aa charging at Default_Station_1... Battery now 5%
+[VEHICLE:aa] 2025-11-07T15:39:27.5439837+01:00 🔌 aa charging at Default_Station_1... Battery now 10%
+[VEHICLE:aa] 2025-11-07T15:39:47.5567286+01:00 🔌 aa charging at Default_Station_1... Battery now 15%
+[VEHICLE:aa] 2025-11-07T15:40:07.5679876+01:00 🔌 aa charging at Default_Station_1... Battery now 20%
+[VEHICLE:aa] 2025-11-07T15:40:27.5946859+01:00 🔌 aa charging at Default_Station_1... Battery now 25%
+[VEHICLE:aa] 2025-11-07T15:40:47.6172888+01:00 🔌 aa charging at Default_Station_1... Battery now 30%
+[VEHICLE:aa] 2025-11-07T15:41:07.6250562+01:00 🔌 aa charging at Default_Station_1... Battery now 35%
+[VEHICLE:aa] 2025-11-07T15:41:27.6376602+01:00 🔌 aa charging at Default_Station_1... Battery now 40%
+[VEHICLE:aa] 2025-11-07T15:41:47.6426057+01:00 🔌 aa charging at Default_Station_1... Battery now 45%
+[VEHICLE:aa] 2025-11-07T15:42:07.6568415+01:00 🔌 aa charging at Default_Station_1... Battery now 50%
+[VEHICLE:aa] 2025-11-07T15:42:27.6712759+01:00 🔌 aa charging at Default_Station_1... Battery now 55%
+[VEHICLE:aa] 2025-11-07T15:42:47.6878172+01:00 🔌 aa charging at Default_Station_1... Battery now 60%
+[VEHICLE:aa] 2025-11-07T15:43:07.6957981+01:00 🔌 aa charging at Default_Station_1... Battery now 65%
+[VEHICLE:aa] 2025-11-07T15:43:27.7033232+01:00 🔌 aa charging at Default_Station_1... Battery now 70%
+[VEHICLE:aa] 2025-11-07T15:43:47.7113513+01:00 🔌 aa charging at Default_Station_1... Battery now 75%
+[VEHICLE:aa] 2025-11-07T15:44:07.7222332+01:00 🔌 aa charging at Default_Station_1... Battery now 80%
+[VEHICLE:aa] 2025-11-07T15:44:27.7252039+01:00 🔌 aa charging at Default_Station_1... Battery now 85%
+[VEHICLE:aa] 2025-11-07T15:44:47.7519144+01:00 🔌 aa charging at Default_Station_1... Battery now 90%
+[VEHICLE:aa] 2025-11-07T15:45:07.7716103+01:00 🔌 aa charging at Default_Station_1... Battery now 95%
+[VEHICLE:aa] 2025-11-07T15:45:07.7746155+01:00 🔋 aa fully charged and ready to resume tasks.

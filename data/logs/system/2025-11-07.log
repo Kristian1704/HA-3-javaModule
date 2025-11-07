@@ -1,0 +1,64 @@
+[SYSTEM] 2025-11-07T00:00:00.6860005+01:00 Vehicle added: StorageVehicle{id='1', name='ee', battery=100%}
+[SYSTEM] 2025-11-07T00:00:13.0376159+01:00 🟡 Added unassigned item: rr (yt), qty=7
+[SYSTEM] 2025-11-07T00:00:24.8100021+01:00 Task created: Task{id='1', description='d', assigneeVehicleId='1', status=PENDING}
+[SYSTEM] 2025-11-07T00:00:40.1421185+01:00 Task 1 -> IN_PROGRESS
+[SYSTEM] 2025-11-07T00:01:40.1993073+01:00 [TASK 1] ✅ Delivered 50 of Gloves from ee
+[SYSTEM] 2025-11-07T00:15:31.5868845+01:00 Vehicle added: StorageVehicle{id='1', name='ww', battery=100%}
+[SYSTEM] 2025-11-07T00:15:42.4003559+01:00 🟡 Added unassigned item: wwe (rew), qty=8
+[SYSTEM] 2025-11-07T00:15:53.4811283+01:00 Task created: Task{id='1', description='rtt', assigneeVehicleId='1', status=PENDING}
+[SYSTEM] 2025-11-07T00:16:08.1941168+01:00 Task 1 -> IN_PROGRESS
+[SYSTEM] 2025-11-07T00:17:08.2469224+01:00 [TASK 1] ✅ Delivered 50 of Gloves from vehicle ww
+[SYSTEM] 2025-11-07T00:19:29.2066759+01:00 Vehicle added: StorageVehicle{id='1', name='qq', battery=20%}
+[SYSTEM] 2025-11-07T00:19:49.1057119+01:00 Vehicle added: StorageVehicle{id='2', name='ww', battery=20%}
+[SYSTEM] 2025-11-07T00:19:57.0973189+01:00 Vehicle added: StorageVehicle{id='3', name='ee', battery=20%}
+[SYSTEM] 2025-11-07T00:20:14.9820925+01:00 Task created: Task{id='AUTO-1762471214966', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T00:33:42.3126757+01:00 Vehicle added: StorageVehicle{id='1', name='qq', battery=20%}
+[SYSTEM] 2025-11-07T00:33:49.5704948+01:00 Vehicle added: StorageVehicle{id='2', name='ww', battery=20%}
+[SYSTEM] 2025-11-07T00:33:52.4996509+01:00 Vehicle added: StorageVehicle{id='3', name='ee', battery=20%}
+[SYSTEM] 2025-11-07T00:34:01.5333901+01:00 Task created: Task{id='AUTO-1762472041518', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T00:36:04.9666449+01:00 Vehicle added: StorageVehicle{id='4', name='rr', battery=20%}
+[SYSTEM] 2025-11-07T00:36:20.8737007+01:00 Task created: Task{id='AUTO-1762472180873', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T00:38:43.2957721+01:00 Vehicle added: StorageVehicle{id='6', name='tt', battery=20%}
+[SYSTEM] 2025-11-07T00:38:48.8004031+01:00 Task created: Task{id='AUTO-1762472328800', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T00:47:55.757825+01:00 Vehicle added: StorageVehicle{id='1', name='qq', battery=20%}
+[SYSTEM] 2025-11-07T00:48:03.0475837+01:00 Vehicle added: StorageVehicle{id='2', name='ww', battery=20%}
+[SYSTEM] 2025-11-07T00:48:11.0287762+01:00 Vehicle added: StorageVehicle{id='3', name='ee', battery=20%}
+[SYSTEM] 2025-11-07T00:48:17.5191978+01:00 Task created: Task{id='AUTO-1762472897501', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T00:49:09.1718965+01:00 Vehicle added: StorageVehicle{id='4', name='ELENA', battery=20%}
+[SYSTEM] 2025-11-07T01:05:30.8212418+01:00 Vehicle added: StorageVehicle{id='1', name='qq', battery=20%}
+[SYSTEM] 2025-11-07T01:05:37.8073483+01:00 Vehicle added: StorageVehicle{id='2', name='ww', battery=20%}
+[SYSTEM] 2025-11-07T01:05:42.2512786+01:00 Vehicle added: StorageVehicle{id='3', name='ee', battery=20%}
+[SYSTEM] 2025-11-07T01:05:45.7225327+01:00 Task created: Task{id='AUTO-1762473945704', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T01:06:00.5062006+01:00 Vehicle added: StorageVehicle{id='4', name='ELENAA', battery=20%}
+[SYSTEM] 2025-11-07T01:14:46.5701367+01:00 Task created: Task{id='AUTO-1762474486570', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T14:19:27.4590641+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T14:19:32.5419567+01:00 Vehicle added: StorageVehicle{id='2', name='ada', battery=20%}
+[SYSTEM] 2025-11-07T14:21:43.2231832+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T14:21:50.2314033+01:00 Vehicle added: StorageVehicle{id='2', name='swd', battery=20%}
+[SYSTEM] 2025-11-07T14:22:00.2222563+01:00 🟡 Added unassigned item: aa (ass), qty=3
+[SYSTEM] 2025-11-07T14:22:23.1966719+01:00 Task created: Task{id='1', description='test', assigneeVehicleId='1', status=PENDING}
+[SYSTEM] 2025-11-07T14:22:37.3422789+01:00 Task 1 -> IN_PROGRESS
+[SYSTEM] 2025-11-07T14:23:09.3271902+01:00 Task created: Task{id='AUTO-1762521789319', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T14:23:37.3839045+01:00 [TASK 1] ✅ Delivered 50 of Gloves from vehicle aa
+[SYSTEM] 2025-11-07T14:36:04.4904235+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T14:36:22.1441509+01:00 Vehicle added: StorageVehicle{id='2', name='test', battery=20%}
+[SYSTEM] 2025-11-07T14:36:27.2152495+01:00 Vehicle added: StorageVehicle{id='3', name='ffsdf', battery=20%}
+[SYSTEM] 2025-11-07T14:51:39.6409432+01:00 Task created: Task{id='AUTO-1762523499608', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T14:53:23.8472458+01:00 Vehicle added: StorageVehicle{id='4', name='aaa', battery=20%}
+[SYSTEM] 2025-11-07T14:53:34.6099069+01:00 Added unassigned item: test (tt), qty=5
+[SYSTEM] 2025-11-07T14:53:51.7713247+01:00 Task created: Task{id='1', description='this is a test', assigneeVehicleId='4', status=PENDING}
+[SYSTEM] 2025-11-07T14:54:18.8034623+01:00 Task 1 -> IN_PROGRESS
+[SYSTEM] 2025-11-07T14:55:18.8477302+01:00 [TASK 1] Delivered 50 of Gloves from vehicle aaa
+[SYSTEM] 2025-11-07T15:20:27.8673901+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T15:20:31.4091743+01:00 Vehicle added: StorageVehicle{id='2', name='bb', battery=20%}
+[SYSTEM] 2025-11-07T15:20:35.6649026+01:00 Vehicle added: StorageVehicle{id='3', name='cc', battery=20%}
+[SYSTEM] 2025-11-07T15:25:43.2157294+01:00 Task created: Task{id='AUTO-1762525543186', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T15:37:34.2003323+01:00 Vehicle added: StorageVehicle{id='1', name='aa', battery=20%}
+[SYSTEM] 2025-11-07T15:37:37.1576369+01:00 Vehicle added: StorageVehicle{id='2', name='bb', battery=20%}
+[SYSTEM] 2025-11-07T15:37:40.0793942+01:00 Vehicle added: StorageVehicle{id='3', name='cc', battery=20%}
+[SYSTEM] 2025-11-07T15:37:47.4400218+01:00 Task created: Task{id='AUTO-1762526267424', description='Auto-distribute items', assigneeVehicleId='null', status=PENDING}
+[SYSTEM] 2025-11-07T15:37:57.3926871+01:00 Vehicle added: StorageVehicle{id='4', name='kri', battery=20%}
+[SYSTEM] 2025-11-07T15:38:08.8765448+01:00 Added unassigned item: aa (ss), qty=2
+[SYSTEM] 2025-11-07T15:38:31.0505861+01:00 Task created: Task{id='1', description='test', assigneeVehicleId='4', status=PENDING}
+[SYSTEM] 2025-11-07T15:38:38.9707715+01:00 Task 1 -> IN_PROGRESS
+[SYSTEM] 2025-11-07T15:39:39.0217479+01:00 [TASK 1] Delivered 50 of Masks from vehicle kri

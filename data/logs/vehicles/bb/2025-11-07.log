@@ -1,0 +1,45 @@
+[VEHICLE:bb] 2025-11-07T15:20:31.4091743+01:00 created
+[VEHICLE:bb] 2025-11-07T15:26:43.2911085+01:00 ⚠️ Battery low (10%). bb going to Default_Station_3 for charging...
+[VEHICLE:bb] 2025-11-07T15:26:43.2976852+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:bb] 2025-11-07T15:27:03.3126268+01:00 🔌 bb charging at Default_Station_3... Battery now 15%
+[VEHICLE:bb] 2025-11-07T15:27:23.3207031+01:00 🔌 bb charging at Default_Station_3... Battery now 20%
+[VEHICLE:bb] 2025-11-07T15:27:43.3466114+01:00 🔌 bb charging at Default_Station_3... Battery now 25%
+[VEHICLE:bb] 2025-11-07T15:28:03.3596881+01:00 🔌 bb charging at Default_Station_3... Battery now 30%
+[VEHICLE:bb] 2025-11-07T15:28:23.3735122+01:00 🔌 bb charging at Default_Station_3... Battery now 35%
+[VEHICLE:bb] 2025-11-07T15:28:43.3813751+01:00 🔌 bb charging at Default_Station_3... Battery now 40%
+[VEHICLE:bb] 2025-11-07T15:29:03.393265+01:00 🔌 bb charging at Default_Station_3... Battery now 45%
+[VEHICLE:bb] 2025-11-07T15:29:23.4039994+01:00 🔌 bb charging at Default_Station_3... Battery now 50%
+[VEHICLE:bb] 2025-11-07T15:29:43.4155796+01:00 🔌 bb charging at Default_Station_3... Battery now 55%
+[VEHICLE:bb] 2025-11-07T15:30:03.4264457+01:00 🔌 bb charging at Default_Station_3... Battery now 60%
+[VEHICLE:bb] 2025-11-07T15:30:23.4331226+01:00 🔌 bb charging at Default_Station_3... Battery now 65%
+[VEHICLE:bb] 2025-11-07T15:30:43.4503423+01:00 🔌 bb charging at Default_Station_3... Battery now 70%
+[VEHICLE:bb] 2025-11-07T15:31:03.4612013+01:00 🔌 bb charging at Default_Station_3... Battery now 75%
+[VEHICLE:bb] 2025-11-07T15:31:23.4686486+01:00 🔌 bb charging at Default_Station_3... Battery now 80%
+[VEHICLE:bb] 2025-11-07T15:31:43.4789845+01:00 🔌 bb charging at Default_Station_3... Battery now 85%
+[VEHICLE:bb] 2025-11-07T15:32:03.4885093+01:00 🔌 bb charging at Default_Station_3... Battery now 90%
+[VEHICLE:bb] 2025-11-07T15:32:23.5033934+01:00 🔌 bb charging at Default_Station_3... Battery now 95%
+[VEHICLE:bb] 2025-11-07T15:32:23.5064129+01:00 🔋 bb fully charged and ready to resume tasks.
+[VEHICLE:bb] 2025-11-07T15:37:37.173272+01:00 created
+[VEHICLE:bb] 2025-11-07T15:38:47.5262552+01:00 ⚠️ Battery low (10%). bb going to Default_Station_2 for charging...
+[VEHICLE:bb] 2025-11-07T15:38:47.5292688+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:bb] 2025-11-07T15:38:57.4256672+01:00 Battery drop after auto-distribution: 10% → 0%
+[VEHICLE:bb] 2025-11-07T15:39:07.5360619+01:00 🔌 bb charging at Default_Station_2... Battery now 5%
+[VEHICLE:bb] 2025-11-07T15:39:27.5439837+01:00 🔌 bb charging at Default_Station_2... Battery now 10%
+[VEHICLE:bb] 2025-11-07T15:39:47.5567286+01:00 🔌 bb charging at Default_Station_2... Battery now 15%
+[VEHICLE:bb] 2025-11-07T15:40:07.5679876+01:00 🔌 bb charging at Default_Station_2... Battery now 20%
+[VEHICLE:bb] 2025-11-07T15:40:27.5996873+01:00 🔌 bb charging at Default_Station_2... Battery now 25%
+[VEHICLE:bb] 2025-11-07T15:40:47.6172888+01:00 🔌 bb charging at Default_Station_2... Battery now 30%
+[VEHICLE:bb] 2025-11-07T15:41:07.6250562+01:00 🔌 bb charging at Default_Station_2... Battery now 35%
+[VEHICLE:bb] 2025-11-07T15:41:27.6376602+01:00 🔌 bb charging at Default_Station_2... Battery now 40%
+[VEHICLE:bb] 2025-11-07T15:41:47.6426057+01:00 🔌 bb charging at Default_Station_2... Battery now 45%
+[VEHICLE:bb] 2025-11-07T15:42:07.6568415+01:00 🔌 bb charging at Default_Station_2... Battery now 50%
+[VEHICLE:bb] 2025-11-07T15:42:27.6700547+01:00 🔌 bb charging at Default_Station_2... Battery now 55%
+[VEHICLE:bb] 2025-11-07T15:42:47.6973798+01:00 🔌 bb charging at Default_Station_2... Battery now 60%
+[VEHICLE:bb] 2025-11-07T15:43:07.7112171+01:00 🔌 bb charging at Default_Station_2... Battery now 65%
+[VEHICLE:bb] 2025-11-07T15:43:27.7183872+01:00 🔌 bb charging at Default_Station_2... Battery now 70%
+[VEHICLE:bb] 2025-11-07T15:43:47.725302+01:00 🔌 bb charging at Default_Station_2... Battery now 75%
+[VEHICLE:bb] 2025-11-07T15:44:07.7375089+01:00 🔌 bb charging at Default_Station_2... Battery now 80%
+[VEHICLE:bb] 2025-11-07T15:44:27.7408327+01:00 🔌 bb charging at Default_Station_2... Battery now 85%
+[VEHICLE:bb] 2025-11-07T15:44:47.7519144+01:00 🔌 bb charging at Default_Station_2... Battery now 90%
+[VEHICLE:bb] 2025-11-07T15:45:07.7725952+01:00 🔌 bb charging at Default_Station_2... Battery now 95%
+[VEHICLE:bb] 2025-11-07T15:45:07.7746155+01:00 🔋 bb fully charged and ready to resume tasks.

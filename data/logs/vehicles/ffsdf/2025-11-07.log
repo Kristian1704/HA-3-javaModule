@@ -1,0 +1,21 @@
+[VEHICLE:ffsdf] 2025-11-07T14:36:27.2308806+01:00 created
+[VEHICLE:ffsdf] 2025-11-07T14:52:39.7611235+01:00 ⚠️ Battery low (10%). ffsdf going to Default_Station_1 for charging...
+[VEHICLE:ffsdf] 2025-11-07T14:52:39.7772532+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:ffsdf] 2025-11-07T14:52:59.8092663+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 15%
+[VEHICLE:ffsdf] 2025-11-07T14:53:19.8207339+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 20%
+[VEHICLE:ffsdf] 2025-11-07T14:53:39.833668+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 25%
+[VEHICLE:ffsdf] 2025-11-07T14:53:59.8583755+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 30%
+[VEHICLE:ffsdf] 2025-11-07T14:54:19.8618042+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 35%
+[VEHICLE:ffsdf] 2025-11-07T14:54:39.8816353+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 40%
+[VEHICLE:ffsdf] 2025-11-07T14:54:59.8935715+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 45%
+[VEHICLE:ffsdf] 2025-11-07T14:55:19.9041057+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 50%
+[VEHICLE:ffsdf] 2025-11-07T14:55:39.9137655+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 55%
+[VEHICLE:ffsdf] 2025-11-07T14:55:59.9176207+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 60%
+[VEHICLE:ffsdf] 2025-11-07T14:56:19.9227745+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 65%
+[VEHICLE:ffsdf] 2025-11-07T14:56:39.9367493+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 70%
+[VEHICLE:ffsdf] 2025-11-07T14:56:59.9411906+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 75%
+[VEHICLE:ffsdf] 2025-11-07T14:57:19.9800229+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 80%
+[VEHICLE:ffsdf] 2025-11-07T14:57:39.993136+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 85%
+[VEHICLE:ffsdf] 2025-11-07T14:58:00.002055+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 90%
+[VEHICLE:ffsdf] 2025-11-07T14:58:20.0182483+01:00 🔌 ffsdf charging at Default_Station_1... Battery now 95%
+[VEHICLE:ffsdf] 2025-11-07T14:58:20.0212612+01:00 🔋 ffsdf fully charged and ready to resume tasks.

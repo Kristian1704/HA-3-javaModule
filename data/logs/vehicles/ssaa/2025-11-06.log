@@ -1,0 +1,22 @@
+[VEHICLE:ssaa] 2025-11-06T10:50:09.6125329+01:00 created
+[VEHICLE:ssaa] 2025-11-06T10:50:44.8884953+01:00 ⚠️ Battery low (2%). ssaa going to Default_Station_1 for charging...
+[VEHICLE:ssaa] 2025-11-06T10:51:04.8978284+01:00 🔌 ssaa charging at Default_Station_1... Battery now 7%
+[VEHICLE:ssaa] 2025-11-06T10:51:24.9014937+01:00 🔌 ssaa charging at Default_Station_1... Battery now 12%
+[VEHICLE:ssaa] 2025-11-06T10:51:44.9087873+01:00 🔌 ssaa charging at Default_Station_1... Battery now 17%
+[VEHICLE:ssaa] 2025-11-06T10:52:04.9125233+01:00 🔌 ssaa charging at Default_Station_1... Battery now 22%
+[VEHICLE:ssaa] 2025-11-06T10:52:24.9305159+01:00 🔌 ssaa charging at Default_Station_1... Battery now 27%
+[VEHICLE:ssaa] 2025-11-06T10:52:44.9406683+01:00 🔌 ssaa charging at Default_Station_1... Battery now 32%
+[VEHICLE:ssaa] 2025-11-06T10:53:04.9435227+01:00 🔌 ssaa charging at Default_Station_1... Battery now 37%
+[VEHICLE:ssaa] 2025-11-06T10:53:24.9472947+01:00 🔌 ssaa charging at Default_Station_1... Battery now 42%
+[VEHICLE:ssaa] 2025-11-06T10:53:44.9571019+01:00 🔌 ssaa charging at Default_Station_1... Battery now 47%
+[VEHICLE:ssaa] 2025-11-06T10:54:04.9597443+01:00 🔌 ssaa charging at Default_Station_1... Battery now 52%
+[VEHICLE:ssaa] 2025-11-06T10:54:24.962402+01:00 🔌 ssaa charging at Default_Station_1... Battery now 57%
+[VEHICLE:ssaa] 2025-11-06T10:54:44.9639975+01:00 🔌 ssaa charging at Default_Station_1... Battery now 62%
+[VEHICLE:ssaa] 2025-11-06T10:55:04.9813435+01:00 🔌 ssaa charging at Default_Station_1... Battery now 67%
+[VEHICLE:ssaa] 2025-11-06T10:55:24.9961913+01:00 🔌 ssaa charging at Default_Station_1... Battery now 72%
+[VEHICLE:ssaa] 2025-11-06T10:55:45.0067995+01:00 🔌 ssaa charging at Default_Station_1... Battery now 77%
+[VEHICLE:ssaa] 2025-11-06T10:56:05.0097675+01:00 🔌 ssaa charging at Default_Station_1... Battery now 82%
+[VEHICLE:ssaa] 2025-11-06T10:56:25.0197118+01:00 🔌 ssaa charging at Default_Station_1... Battery now 87%
+[VEHICLE:ssaa] 2025-11-06T10:56:45.0327976+01:00 🔌 ssaa charging at Default_Station_1... Battery now 92%
+[VEHICLE:ssaa] 2025-11-06T10:57:05.0411234+01:00 🔌 ssaa charging at Default_Station_1... Battery now 97%
+[VEHICLE:ssaa] 2025-11-06T10:57:05.0470866+01:00 🔋 ssaa fully charged and ready to resume tasks.

@@ -1,0 +1,21 @@
+[VEHICLE:swd] 2025-11-07T14:21:50.2410744+01:00 created
+[VEHICLE:swd] 2025-11-07T14:24:09.3772506+01:00 ⚠️ Battery low (10%). swd going to Default_Station_1 for charging...
+[VEHICLE:swd] 2025-11-07T14:24:09.3802506+01:00 Battery drop after auto-distribution: 20% → 10%
+[VEHICLE:swd] 2025-11-07T14:24:29.3956745+01:00 🔌 swd charging at Default_Station_1... Battery now 15%
+[VEHICLE:swd] 2025-11-07T14:24:49.4042553+01:00 🔌 swd charging at Default_Station_1... Battery now 20%
+[VEHICLE:swd] 2025-11-07T14:25:09.4388931+01:00 🔌 swd charging at Default_Station_1... Battery now 25%
+[VEHICLE:swd] 2025-11-07T14:25:29.4417289+01:00 🔌 swd charging at Default_Station_1... Battery now 30%
+[VEHICLE:swd] 2025-11-07T14:25:49.4645952+01:00 🔌 swd charging at Default_Station_1... Battery now 35%
+[VEHICLE:swd] 2025-11-07T14:26:09.4693466+01:00 🔌 swd charging at Default_Station_1... Battery now 40%
+[VEHICLE:swd] 2025-11-07T14:26:29.4743542+01:00 🔌 swd charging at Default_Station_1... Battery now 45%
+[VEHICLE:swd] 2025-11-07T14:26:49.4898673+01:00 🔌 swd charging at Default_Station_1... Battery now 50%
+[VEHICLE:swd] 2025-11-07T14:27:09.6383516+01:00 🔌 swd charging at Default_Station_1... Battery now 55%
+[VEHICLE:swd] 2025-11-07T14:27:29.6588918+01:00 🔌 swd charging at Default_Station_1... Battery now 60%
+[VEHICLE:swd] 2025-11-07T14:27:49.6730123+01:00 🔌 swd charging at Default_Station_1... Battery now 65%
+[VEHICLE:swd] 2025-11-07T14:28:09.6751559+01:00 🔌 swd charging at Default_Station_1... Battery now 70%
+[VEHICLE:swd] 2025-11-07T14:28:29.6841959+01:00 🔌 swd charging at Default_Station_1... Battery now 75%
+[VEHICLE:swd] 2025-11-07T14:28:49.6995904+01:00 🔌 swd charging at Default_Station_1... Battery now 80%
+[VEHICLE:swd] 2025-11-07T14:29:09.7043716+01:00 🔌 swd charging at Default_Station_1... Battery now 85%
+[VEHICLE:swd] 2025-11-07T14:29:29.7135455+01:00 🔌 swd charging at Default_Station_1... Battery now 90%
+[VEHICLE:swd] 2025-11-07T14:29:49.7247401+01:00 🔌 swd charging at Default_Station_1... Battery now 95%
+[VEHICLE:swd] 2025-11-07T14:29:49.7287156+01:00 🔋 swd fully charged and ready to resume tasks.

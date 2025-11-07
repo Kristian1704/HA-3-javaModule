@@ -1,0 +1,22 @@
+[VEHICLE:bb] 2025-11-06T11:29:21.0552841+01:00 created
+[VEHICLE:bb] 2025-11-06T11:29:32.9544264+01:00 ⚠️ Battery low (6%). bb going to Default_Station_1 for charging...
+[VEHICLE:bb] 2025-11-06T11:29:52.9582571+01:00 🔌 bb charging at Default_Station_1... Battery now 11%
+[VEHICLE:bb] 2025-11-06T11:30:12.971133+01:00 🔌 bb charging at Default_Station_1... Battery now 16%
+[VEHICLE:bb] 2025-11-06T11:30:32.9769857+01:00 🔌 bb charging at Default_Station_1... Battery now 21%
+[VEHICLE:bb] 2025-11-06T11:30:52.9876417+01:00 🔌 bb charging at Default_Station_1... Battery now 26%
+[VEHICLE:bb] 2025-11-06T11:31:12.9948531+01:00 🔌 bb charging at Default_Station_1... Battery now 31%
+[VEHICLE:bb] 2025-11-06T11:31:33.0078141+01:00 🔌 bb charging at Default_Station_1... Battery now 36%
+[VEHICLE:bb] 2025-11-06T11:31:53.0117575+01:00 🔌 bb charging at Default_Station_1... Battery now 41%
+[VEHICLE:bb] 2025-11-06T11:32:13.0203993+01:00 🔌 bb charging at Default_Station_1... Battery now 46%
+[VEHICLE:bb] 2025-11-06T11:32:33.0367818+01:00 🔌 bb charging at Default_Station_1... Battery now 51%
+[VEHICLE:bb] 2025-11-06T11:32:53.0396109+01:00 🔌 bb charging at Default_Station_1... Battery now 56%
+[VEHICLE:bb] 2025-11-06T11:33:13.0445441+01:00 🔌 bb charging at Default_Station_1... Battery now 61%
+[VEHICLE:bb] 2025-11-06T11:33:33.0459522+01:00 🔌 bb charging at Default_Station_1... Battery now 66%
+[VEHICLE:bb] 2025-11-06T11:33:53.0618998+01:00 🔌 bb charging at Default_Station_1... Battery now 71%
+[VEHICLE:bb] 2025-11-06T11:34:13.0718533+01:00 🔌 bb charging at Default_Station_1... Battery now 76%
+[VEHICLE:bb] 2025-11-06T11:34:33.0873451+01:00 🔌 bb charging at Default_Station_1... Battery now 81%
+[VEHICLE:bb] 2025-11-06T11:34:53.0950227+01:00 🔌 bb charging at Default_Station_1... Battery now 86%
+[VEHICLE:bb] 2025-11-06T11:35:13.1097404+01:00 🔌 bb charging at Default_Station_1... Battery now 91%
+[VEHICLE:bb] 2025-11-06T11:35:33.1217647+01:00 🔌 bb charging at Default_Station_1... Battery now 96%
+[VEHICLE:bb] 2025-11-06T11:35:33.1227849+01:00 🔋 bb fully charged and ready to resume tasks.
+[VEHICLE:bb] 2025-11-06T18:49:05.9538189+01:00 created
