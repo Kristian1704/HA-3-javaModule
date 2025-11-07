@@ -15,9 +15,6 @@ Implemented:
 - Charging multiple AGVs simultaneously (1..N)
 - Concurrency using thread pools for charging stations
 - Random arrival simulation for AGVs
-- Queue management for AGVs waiting to charge
-- Waiting time calculation
-- Automatic queue exit when wait time exceeds 15 minutes
 - Logging of all charging events
 
 This includes:
@@ -30,7 +27,7 @@ This includes:
 ### **Elena – Focused on Requirement 2**
 **Random Arrival & Queue Management for Charging**
 
-Your teammate implemented:
+My team mate (Elena)implemented:
 - Random arrival generation for AGVs
 - Queue logic and waiting list simulation
 - Waiting time calculation based on current charging conditions
